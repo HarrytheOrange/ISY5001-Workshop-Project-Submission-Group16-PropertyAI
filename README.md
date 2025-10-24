@@ -26,15 +26,13 @@ Singapore’s residential market involves high-stakes, policy-constrained decisi
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-| Official Full Name | Student ID (MTech Applicable) | Work Items (Who Did What) | Email (Optional) |
-| :-- | :--: | :-- | :-- |
-| Cheng Ziming | A0330176L | Modeling and implementation contributions; see ProjectReport for detailed breakdown |  |
-| Hong Zhuoyuan | A0329586L | Modeling and implementation contributions; see ProjectReport for detailed breakdown |  |
-| Jia XingJie | A0139137A | Modeling and implementation contributions; see ProjectReport for detailed breakdown |  |
-| Thun Zhen Hong | A0331639B | Modeling and implementation contributions; see ProjectReport for detailed breakdown |  |
-| Wang Yaochen | A0241873B | Modeling and implementation contributions; see ProjectReport for detailed breakdown |  |
-
-Notes: For a fine-grained contribution matrix (price estimator, recommender, LLM agent/tools, data engineering, frontend/demo, report), please refer to the ProjectReport.
+| Name | Student ID | Summary of Contributions |
+| :-- | :--: | :-- |
+| Cheng Ziming | A0330176L | Ideation; high-level architecture; core codebase; LangGraph + Agent framework |
+| Hong Zhuoyuan | A0329586L | Ideation; HDB/Condo estimator pipelines; postal code–address map; frontend + integration |
+| Jia XingJie | A0139137A | Data cleaning/FE; analysis; price model optimization; video editing |
+| Thun Zhen Hong | A0331639B | Condo recommender (baseline/final); evaluation; user matrix → similarity for ranking |
+| Wang Yaochen | A0241873B | Geo-feature enrichment; recommendation architecture + HDB model; OneMap route function; docs |
 
 ---
 
@@ -65,7 +63,7 @@ Quick start (optional, for local runs):
 
 - Data: `SystemCode/data/`
 - Models/artifacts: `SystemCode/src/backend/models/`
--- Down csv data "item_matrix_merged.csv" and "item_matrix_merged_condo_reordered_20251019_180809.csv" from "Google Link" and put into Data folder
+- From `https://drive.google.com/drive/folders/18Atcs--U4xUOdUbMIAYF_e_vhfwQ12w6?usp=sharing`, download "item_matrix_merged.csv" and "item_matrix_merged_condo_reordered_20251019_180809.csv" and place them into `SystemCode/data/`.
 
 ---
 
