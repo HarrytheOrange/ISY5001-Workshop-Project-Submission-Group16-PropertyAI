@@ -14,7 +14,7 @@ Team: Group 16
 
 Property AI Assistant — An Intelligent Reasoning System for Singapore Real Estate
 
-<img src="SystemCode/src/backend/temp/static_map_with_legend.png" alt="Property AI Assistant Preview" style="float: left; margin-right: 0px;" />
+<img src="Mescellaneous/final-system-design.png" alt="Property AI Assistant Preview" style="float: left; margin-right: 0px;" />
 
 ---
 
