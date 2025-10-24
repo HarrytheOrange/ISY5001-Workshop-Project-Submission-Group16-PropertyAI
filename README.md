@@ -38,7 +38,7 @@ Singapore’s residential market involves high-stakes, policy-constrained decisi
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-See repository folder: `Video/` (add link to hosted video if available).
+See repository folder: `Video/`.
 
 ---
 
@@ -83,12 +83,6 @@ Refer to project report at repository folder: `ProjectReport/`.
 10. Future Work  
 11. Conclusion  
 12. References
-
----
-
-## SECTION 7 : MISCELLANEOUS
-
-Refer to repository folder: `Mescellaneous/` (ancillary materials).
 
 ---
 
