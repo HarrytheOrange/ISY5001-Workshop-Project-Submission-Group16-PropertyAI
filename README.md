@@ -58,7 +58,8 @@ Quick start (optional, for local runs):
 2) Backend (agents, models, tools)
 
 - Path: `SystemCode/src/backend/agent`
-- Entry points: `app.py` / `app_backend_test.py` (see comments inside and ProjectReport for exact usage)
+- Commands: `pip install -r SystemCode/src/requirements.txt` then `python app.py`
+- Alternative entry: `python app_backend_test.py` (see comments in file and ProjectReport)
 
 3) Data & Models
 
