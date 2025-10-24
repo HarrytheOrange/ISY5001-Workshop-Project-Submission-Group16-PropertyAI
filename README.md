@@ -59,22 +59,19 @@ Quick start (optional, for local runs):
 
 - Path: `SystemCode/src/backend/agent`
 - Commands: `pip install -r SystemCode/src/requirements.txt` then `python app.py`
-- Alternative entry: `python app_backend_test.py` (see comments in file and ProjectReport)
+- Alternative entry: `python app_backend_test.py`
 
 3) Data & Models
 
 - Data: `SystemCode/data/`
 - Models/artifacts: `SystemCode/src/backend/models/`
-
-For iss-vm usage, environment setup, and API keys (e.g., OneMap), please see the detailed instructions in the ProjectReport.
+-- Down csv data "item_matrix_merged.csv" and "item_matrix_merged_condo_reordered_20251019_180809.csv" from "Google Link" and put into Data folder
 
 ---
 
 ## SECTION 6 : PROJECT REPORT / PAPER
 
 Refer to project report at repository folder: `ProjectReport/`.
-
-Recommended sections (as adopted in the report):
 
 1. Introduction  
 2. Project Background & Market Context  
